@@ -1,1 +1,6 @@
+/Templates/
 /.vscode
+.obsidian
+.obsidian.7z
+/.trash/*
+.obsidian.zip
